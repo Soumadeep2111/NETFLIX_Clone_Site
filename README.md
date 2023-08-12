@@ -14,6 +14,6 @@ I have tried to depict a similar home page of netflix.com using :
 To start the app :
 1) open a new terminal (i.e in VS Code)
 2) type " npm i "
-3) then, type " npm start"
+3) then, type " npm start "
 
 And, it should be redirection you to your browser.
